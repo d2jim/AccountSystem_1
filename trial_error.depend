@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589009780 source:c:\users\david\onedrive\desktop\coding\projects\exampleprojects\trial_error\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589259205 source:c:\users\david\onedrive\desktop\coding\playground\exampleprojects\trial_error\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
